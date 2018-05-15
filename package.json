@@ -1,7 +1,7 @@
 {
-  "name": "inbox",
+  "name": "Lottery",
   "version": "1.0.0",
-  "description": "inbox tutorial project from https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/learn/v4/t/lecture/9020446?start=0",
+  "description": "Lottery tutorial project from https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/learn/v4/t/lecture/9020446?start=0",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
