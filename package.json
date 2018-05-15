@@ -1,0 +1,29 @@
+{
+  "name": "inbox",
+  "version": "1.0.0",
+  "description": "inbox tutorial project from https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/learn/v4/t/lecture/9020446?start=0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushughes/inbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rushughes/inbox/issues"
+  },
+  "homepage": "https://github.com/rushughes/inbox#readme",
+  "dependencies": {
+    "ganache-cli": "^6.1.0",
+    "mocha": "^5.1.1",
+    "solc": "^0.4.23",
+    "truffle-hdwallet-provider": "0.0.5",
+    "web3": "^1.0.0-beta.26"
+  },
+  "devDependencies": {
+    "eth-gas-reporter": "^0.1.2"
+  }
+}
